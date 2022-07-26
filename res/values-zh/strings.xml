@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_huawei">VR噜咖播放器</string>
+    <string name="app_name_normal">噜咖VR播放器</string>
+    <string name="return_to_2d">双击退出噜咖播放器</string>
+</resources>
